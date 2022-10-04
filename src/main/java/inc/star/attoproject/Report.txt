@@ -1,0 +1,6 @@
+from DateToDate -
+max earned station
+max spent card 2ta
+non-used terminals
+max used terminal
+min used terminal
